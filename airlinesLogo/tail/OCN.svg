@@ -1,0 +1,14 @@
+<svg width="212" height="164" viewBox="0 0 212 164" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M136.295 18.6747L1.1543 162.911H136.727L211.154 0.5H178.229C170.918 0.5 163.675 1.89495 156.887 4.61003C149.076 7.73439 142.047 12.5356 136.295 18.6747Z" fill="white" stroke="#C2C2C2" stroke-opacity="0.4"/>
+<mask id="mask0_324_94050" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="0" width="211" height="163">
+<path d="M136.295 18.6747L1.1543 162.911H136.727L211.154 0.5H178.229C170.918 0.5 163.675 1.89495 156.887 4.61003C149.076 7.73439 142.047 12.5356 136.295 18.6747Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_324_94050)">
+<rect x="-37.8457" y="22.5" width="278" height="44" fill="#65B1EB"/>
+<rect x="-37.8457" y="66.5" width="278" height="44" fill="#1E69A0"/>
+<rect x="-37.8457" y="110.5" width="278" height="44" fill="#013F7C"/>
+<rect x="-37.8457" y="154.5" width="278" height="44" fill="#002454"/>
+<rect x="-37.8457" y="-21.5" width="278" height="44" fill="#FFCD00"/>
+<ellipse cx="155.834" cy="44.8329" rx="59.865" ry="102.384" transform="rotate(12.9005 155.834 44.8329)" fill="white" fill-opacity="0.1"/>
+</g>
+</svg>
